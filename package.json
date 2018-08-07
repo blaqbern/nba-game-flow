@@ -1,7 +1,7 @@
 {
-  "name": "typescript-react-starter",
+  "name": "nba-game-flow",
   "version": "0.0.1",
-  "description": "A jumping off point for frontend apps built with react and typescript",
+  "description": "A visualization tool for NBA games",
   "main": "index.tsx",
   "scripts": {
     "clean": "rm -rf ./dist",
@@ -11,18 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blaqbern/typescript-react-starter"
+    "url": "git+https://github.com/blaqbern/nba-game-flow"
   },
   "keywords": [
     "React",
-    "TypeScript"
+    "TypeScript",
+    "NBA"
   ],
   "author": "Chris Blackburn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blaqbern/typescript-react-starter"
+    "url": "https://github.com/blaqbern/nba-game-flow"
   },
-  "homepage": "https://github.com/blaqbern/typescript-react-starter#readme",
+  "homepage": "https://github.com/blaqbern/nba-game-flow#readme",
   "devDependencies": {
     "@types/react-hot-loader": "^4.1.0",
     "css-loader": "^1.0.0",
